@@ -1,0 +1,18 @@
+body{
+    background-image: url("../img/ZB_F5Yeti_8-05.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Century Gothic", Georgia, serif;
+}
+
+h1 {
+    text-align: center;
+    color: #000000;
+    font-family: "Century Gothic", Georgia, serif;
+}
+
+h3 {
+    font-family: "Century Gothic", Georgia, serif;
+}
+
+/*Eind navbar*/
